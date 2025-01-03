@@ -88,28 +88,37 @@ experiences:
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
             
-      - role: Business Development Manager, Energy Storage
+      - role: Interim Business Development Manager - Energy storage
         time: 2023, May - 2024, April
         company: Solkompaniet, Stockholm
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          TBD
+            - TBD
+            - TBD
+            
+      - role: CEO and Product Development Specialist
+        time: 2019, May - 2024, April
+        company: Nymantech, Stockholm
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          A Full-service Product Development and Manufacturing Agency
+          We simplify the journey from concept to market-ready products
+            - R&D Support: Development strategy support & Engineering validation
+            - Product Development: Full-service OEM & ODM project management
+            - Manufacturing: Identify suitable partners & Manage prototype and manufacturing builds
+
+      - role: Technical Director, Air Purification, Greater China
+        time: 2019, May - 2024, April
+        company: REHAU Polymer (Suzhou) Co., Ltd, Shanghai
+        details: |
+          An internal startup within the Rehau group that develops smart air purifiers to 
+          tackle the increasing indoor air quality problems throughout Asia. Reported to CEO.
+            - Co-Established, and managed a hardware startup targeting both B2C and B2B markets.
+            - Built and led the internal team supporting R&D, prototype, certification, manufacturing, supply chain, and quality assurance.
+            - Established a network of manufacturing and development partners throughout Asia.
+            - Managed the development of the REHAU Home IoT platform.
+            - Launched two award-winning products to market:
+                - sdasa
+
 
 certifications:
       title: Certifications
