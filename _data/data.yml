@@ -177,7 +177,7 @@ experiences:
 
       - role: Applications Engineer
         time: 2010, Nov - 2011, Oct
-        company: Heatex, Malmo, Sweden
+        company: Heatex, Malmo (Sweden)
         details: |
           Reported to Business Area Director
 
@@ -189,10 +189,14 @@ experiences:
             - Provided technical support for the Heatex sales team and European clients.
             - Commissioned complete cooling solution for clients in China.
 
-
+      - role: Master Thesis Employee
+        time: 2010, Nov - 2011, Oct
+        company: Siemens Industrial Turbomachinery, Finspang (Sweden)
+        details: |
+            - Master thesis: The effect of manufacturing tolerances on the performance of a gas turbine.
 
 certifications:
-      title: Certifications
+      title: Qualifications
       list:
         - name: CV Builder
           start: 2020
