@@ -68,8 +68,8 @@ education:
     title: Education
     info:
       - degree: MSc in Mechanical Engineering
-        university: Lund University
-        time: 2006 - 2010
+        university: Lund University, Faculty of Engineering
+        time: 2006 - 2011
         details: |
           Specialized in advanced energy systems and sustainable technologies.
             - Bullet point
@@ -143,15 +143,52 @@ experiences:
         time: 2014, Oct - 2016, Feb
         company: Heatex Inc, Austin, USA
         details: |
-          A startup focused on developing a Swedish high-end smart air purifier. 
-          The product concept was aimed at the growing number of Chinese consumers who appreciate 
-          craftsmanship, quality, and Scandinavian brands.
-            - Identified, and developed a solution to address existing product gaps in the market.
-            - Built a global team of consultants, and manufacturing partners to support development.
-            - Established a focus group in China to drive the development to a specific market niche.
-            - Successfully achieved early-stage funding.
-            - Developed, and engineered the product concept and built a minimum viable product.
-            - Company was acquired by Rehau in April 2017.
+          Heatex is a global market leader for air-to-air cooling solutions for 
+          air handling units, electronic cabinets, motors, and wind turbines. 
+          Reported to: Group CEO
+
+            - Managed global wind budget, and client key accounts in China, Germany, and USA.
+            - Prospected and secured new clients in North America and Europe.
+            - Redesigned existing products to decrease supplier dependency and improve sales margins.
+            - Managed engineering team in Heatex Shanghai.
+            - Prepared turnover forecasts and project pipelines for monthly board meetings.
+            - Participated and exhibited in international wind turbine conferences and exhibitions.
+            - Created content and directed marketing activities.
+            - Invented, drafted, and filed patent applications.
+            - Established, and managed new global key suppliers.
+            - Drafted and negotiated client bonus agreements.
+            - Co-authored white paper publication with a newly developed client.
+            - Oversaw hiring of new staff by preparing job ads, conducting interviews, and making hiring decisions.
+            
+      - role: Technical Manager
+        time: 2011, Oct - 2014, Oct
+        company: Heatex, Shanghai, USA
+        details: |
+          Heatex is a global market leader for air-to-air cooling solutions for 
+          air handling units, electronic cabinets, motors, and wind turbines. 
+          Reported to GM
+
+            -Developed new and managed existing wind power clients in China and Europe.
+            - Oversaw daily activities for products concerning wind and electronic cooling segment.
+            - Recruited, trained, and managed a mechanical engineer.
+            - Served as a global key account manager for wind segment suppliers, and identified, audited, and developed new suppliers.
+            - Contributed to the ramp-up of the Heatex factory from prototype to volume production.
+            - Solved numerous client issues related to all parts of the products and installation.
+
+      - role: Applications Engineer
+        time: 2010, Nov - 2011, Oct
+        company: Heatex, Malmo, Sweden
+        details: |
+          Reported to Business Area Director
+
+            - Led the development of new prototypes to verify technical and commercial requirements.
+            - Prepared business proposals and secured deals for smaller projects.
+            - Designed new cooling solutions for wind turbine generators.
+            - Prepared cost calculations for complete cooling solutions.
+            - Managed supplier meetings to improve relationships, and lower manufacturing costs.
+            - Provided technical support for the Heatex sales team and European clients.
+            - Commissioned complete cooling solution for clients in China.
+
 
 
 certifications:
