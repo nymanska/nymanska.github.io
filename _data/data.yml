@@ -80,7 +80,7 @@ experiences:
     info:
       - role: CTO Energy Storage
         time: 2024, May - Present
-        company: BOS Power, Stockholm
+        company: BOS Power, Stockholm (Sweden)
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -90,30 +90,33 @@ experiences:
             
       - role: Interim Business Development Manager - Energy storage
         time: 2023, May - 2024, April
-        company: Solkompaniet, Stockholm
+        company: Solkompaniet, Stockholm (Sweden)
         details: |
-          TBD
-            - TBD
-            - TBD
+          Lead the establishment and growth of a new business area dedicated to battery energy storage 
+          systems focusing on utility-scale and commercial and industrial (C&I) projects.
             
       - role: CEO and Product Development Specialist
         time: 2019, May - 2024, April
-        company: Nymantech, Stockholm
+        company: Nymantech, Stockholm (Sweden)
         details: |
-          A Full-service Product Development and Manufacturing Agency
-          We simplify the journey from concept to market-ready products
-            - R&D Support: Development strategy support & Engineering validation
-            - Product Development: Full-service OEM & ODM project management
-            - Manufacturing: Identify suitable partners & Manage prototype and manufacturing builds
+          Founded and established an R&D, and Manufacturing consultant agency that specializes 
+          in smart-hardware development and industrialization projects.
+            - Successfully executed a full-service product development and industrialization project 
+            for a smart-hardware consumer product that launched to the market in 2022.
+            - Defined development plans, and funding requirements for multiple hardware startups.
+            - Established key partners to support manufacturing activities.
+            - Identified and built the engineering and project management team.
+            - Executed various technical research, sourcing, and customization projects.
 
-      - role: Technical Director, Air Purification, Greater China
+      - role: Technical Director, Air Purification
         time: 2019, May - 2024, Apr
-        company: REHAU Polymer (Suzhou) Co., Ltd, Shanghai
+        company: REHAU Polymer (Suzhou) Co., Ltd, Shanghai, Shanghai (China)
         details: |
           An internal startup within the Rehau group that develops smart air purifiers to 
           tackle the increasing indoor air quality problems throughout Asia. Reported to CEO.
             - Co-Established, and managed a hardware startup targeting both B2C and B2B markets.
-            - Built and led the internal team supporting R&D, prototype, certification, manufacturing, supply chain, and quality assurance.
+            - Built and led the internal team supporting R&D, prototype, certification, manufacturing, 
+            supply chain, and quality assurance.
             - Established a network of manufacturing and development partners throughout Asia.
             - Managed the development of the REHAU Home IoT platform.
             - Launched two award-winning products to market:
@@ -127,7 +130,7 @@ experiences:
 
       - role: Founder and CEO
         time: 2016, Feb - 2017, Ap
-        company: Nyluft AB, Nyköping
+        company: Nyluft, Nyköping (Sweden)
         details: |
           A startup focused on developing a Swedish high-end smart air purifier. 
           The product concept was aimed at the growing number of Chinese consumers who appreciate 
@@ -141,12 +144,11 @@ experiences:
             
       - role: Product manager
         time: 2014, Oct - 2016, Feb
-        company: Heatex Inc, Austin, USA
+        company: Heatex, Austin (USA)
         details: |
           Heatex is a global market leader for air-to-air cooling solutions for 
           air handling units, electronic cabinets, motors, and wind turbines. 
           Reported to: Group CEO
-
             - Managed global wind budget, and client key accounts in China, Germany, and USA.
             - Prospected and secured new clients in North America and Europe.
             - Redesigned existing products to decrease supplier dependency and improve sales margins.
@@ -162,12 +164,11 @@ experiences:
             
       - role: Technical Manager
         time: 2011, Oct - 2014, Oct
-        company: Heatex, Shanghai, USA
+        company: Heatex, Shanghai (USA)
         details: |
           Heatex is a global market leader for air-to-air cooling solutions for 
           air handling units, electronic cabinets, motors, and wind turbines. 
           Reported to GM
-
             -Developed new and managed existing wind power clients in China and Europe.
             - Oversaw daily activities for products concerning wind and electronic cooling segment.
             - Recruited, trained, and managed a mechanical engineer.
@@ -177,10 +178,9 @@ experiences:
 
       - role: Applications Engineer
         time: 2010, Nov - 2011, Oct
-        company: Heatex, Malmo (Sweden)
+        company: Heatex, Trelleborg (Sweden)
         details: |
           Reported to Business Area Director
-
             - Led the development of new prototypes to verify technical and commercial requirements.
             - Prepared business proposals and secured deals for smaller projects.
             - Designed new cooling solutions for wind turbine generators.
@@ -191,7 +191,7 @@ experiences:
 
       - role: Master Thesis Employee
         time: 2010, Nov - 2011, Oct
-        company: Siemens Industrial Turbomachinery, Finspang (Sweden)
+        company: Siemens Industrial Turbomachinery, Finspång (Sweden)
         details: |
             - Master thesis: The effect of manufacturing tolerances on the performance of a gas turbine.
 
@@ -283,16 +283,38 @@ oss:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
+    title: Patents
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: Using plate heat exchanger (PHE) for totally enclosed air-to-air cooled (TEAAC) motor
+        link: "https://ieeexplore.ieee.org/document/7589244"
+        authors: Edward C, Gustav N
+        conference: Petroleum and Chemical Industry Technical Conference (PCIC), 2016  / IEEE
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Using plate heat exchanger (PHE) for totally enclosed air-to-air cooled (TEAAC) motor
+        link: "https://ieeexplore.ieee.org/document/7589244"
+        authors: Edward C, Gustav N
+        conference: Petroleum and Chemical Industry Technical Conference (PCIC), 2016  / IEEE
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
