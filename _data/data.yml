@@ -236,41 +236,29 @@ certifications:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
+
+oss:
     title: Patents
     intro: >
       
-    assignments:
-      - title: Using plate heat exchanger (PHE) for totally enclosed air-to-air cooled (TEAAC) motor
-        link: "https://ieeexplore.ieee.org/document/7589244"
-        authors: Edward C, Gustav N
-        conference: Petroleum and Chemical Industry Technical Conference (PCIC), 2016  / IEEE
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
+      - title: Heat Exchange Unit
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Pub. No: WO/2016/046407"
 
-      - title: Atom
+      - title: Stand-Alone Air Purifier
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Pub. No: CN201721435572.8"
 
-      - title: Delta
+      - title: Design Patent
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "TBD"
 
 
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
 
     papers:
       - title: Using plate heat exchanger (PHE) for totally enclosed air-to-air cooled (TEAAC) motor
