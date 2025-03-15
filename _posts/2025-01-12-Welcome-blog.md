@@ -12,3 +12,19 @@ Here, you’ll find a mix of topics that inspire me—from energy storage and ba
 
 ## Let’s Connect and Grow Together
 Whether you’re here to explore new perspectives, gain practical insights, or connect with a shared passion for growth, I hope this blog resonates with you. Let’s exchange ideas, challenge perspectives, and grow together.
+
+<script src="https://giscus.app/client.js"
+        data-repo="ronokdev/ronokdev.github.io"
+        data-repo-id="R_kgDOJ-5M8Q"
+        data-category="General"
+        data-category-id="DIC_kwDOJ-5M8c4CZbjA"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
