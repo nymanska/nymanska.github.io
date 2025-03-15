@@ -6,7 +6,7 @@ categories: [Github]
 tags: [code, github]  #TAG names should always be lowercase separated by comma
 mermaid: false
 image: 
-  path: /assets/img/2025/march/cover.png
+  path: https://www.nymanska.com/assets/img/2025/march/cover.png
   lqtip: 
 ---
 
