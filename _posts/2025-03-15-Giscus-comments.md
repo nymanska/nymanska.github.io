@@ -60,7 +60,7 @@ A few articles that helped inspire my choice of Giscus 💡
 6. Done!
 
 ### Step 3: Enable Giscus Comments in your website repository
-1. Head over to Giscus App https://giscus.app to create a customization script which will be used in your website's page
+1. Head over to [Giscus App](https://giscus.app) to create a customization script which will be used in your website's page
 2. Add the new repository name used to store the comments (for me this was: nymanska/nymanska.github.io-Comments)
 ![Adding giscus comments to jekyll site](https://www.nymanska.com/assets/img/2025/march/setup-add-repo.png)
 3. Add customization features you would like for your website such as placement of comment box, color theme, enable reactions, and more.
@@ -87,12 +87,13 @@ A few articles that helped inspire my choice of Giscus 💡
 5. Add the Giscus script to your website / blog
 My site is built with the Chirpy Theme which fortunately already has built-in support for Giscus comments defined in the _config.yml file.
 
-*If you are using a different theme you might want to add the script in either your config, post or other file.*
+> If you are using a different theme you might want to add the script in either your config, post or other file.
+{: .prompt-info }
 
 Add the Giscus script information in the _config.yml file.
 ![Adding giscus comments to jekyll site](https://www.nymanska.com/assets/img/2025/march/giscus-new-repo.png)
 
-6. Add the Script from Step 4 in the bottom of each blog post.
+1. Add the Script from Step 4 in the bottom of each blog post.
 There might be a better way of doing this without having to post the scrip in every blog post but I haven't figured out how to make that work yet.
 
 ### Step 4. Try it out!
