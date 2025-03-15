@@ -1,12 +1,12 @@
 ---
 title: "Adding Comment Section to Jekyll Site with Giscus"
-description: How to add comment section to Jekyll page and why I chose Giscue.
-date: 2025-03-15 10:25:00 +0100
+#description: How to add comment section to Jekyll page and why I chose Giscue.
+date: 2025-03-15 10:25:00 0100
 published: true
 categories: [Github]
 tags: [Code, Github]  #TAG names should always be lowercase separated by comma
 mermaid: false
-media_subpath: assets/img/2025/Giscus-comments
+media_subpath: /assets/img/2025/Giscus-comments
 image: cover.png
 ---
 
