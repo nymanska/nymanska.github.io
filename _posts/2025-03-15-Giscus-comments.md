@@ -46,6 +46,7 @@ A few articles that helped inspire my choice of Giscus 💡
 ### Step 1: Create a new Github repository
 1. Create a new Github repository which will be used to store comments and reactions.
 ![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/giscus-new-repo.png)
+*New repo*
 
 2. Enable Discussions feature in repository settings
 ![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/giscus-enable-discussions.png)
@@ -103,7 +104,6 @@ After researching different options for adding comment functionality to my blog,
 Are you using a different comment system for your Jekyll site? I’d love to hear about your experiences with other solutions or if this article was helpful for you.
 
 Feel free to share your thoughts - and if you want to test out my new comment section, go ahead and leave a comment below! 👇
-
 
 <script src="https://giscus.app/client.js"
         data-repo="nymanska/nymanska.github.io-Comments"
