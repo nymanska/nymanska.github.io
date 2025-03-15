@@ -1,17 +1,15 @@
 ---
-title: Adding Comment Section to Jekyll Site with Giscus
+title: "Adding Comment Section to Jekyll Site with Giscus"
 description: How to add comment section to Jekyll page and why I chose Giscue.
 date: 2025-03-15 10:25:00 +0100
 published: true
-categories:
-  - Github
-tags:
-  - Code
-  - Github
+categories: [Github]
+tags: [Code, Github]  #TAG names should always be lowercase separated by comma
 mermaid: false
 media_subpath: assets/img/2025/Giscus-comments
 image: cover.png
 ---
+
 ## Introduction
 One of the reasons for [starting this blog](https://www.nymanska.com/posts/Welcome-blog/) is to have a space where I can share my thoughts, ideas, and insights from both my professional and private life. Posting my thoughts publicly on this platform is a great way to express myself, but another key reason is to connect and interact with like-minded people. One way of doing that is by adding a way for readers to comment on my articles.
 
@@ -102,3 +100,19 @@ After researching different options for adding comment functionality to my blog,
 Are you using a different comment system for your Jekyll site? I’d love to hear about your experiences with other solutions or if this article was helpful for you.
 
 Feel free to share your thoughts - and if you want to test out my new comment section, go ahead and leave a comment below! 👇
+
+<script src="https://giscus.app/client.js"
+        data-repo="nymanska/nymanska.github.io-Comments"
+        data-repo-id="R_kgDOOI8GbQ"
+        data-category="General"
+        data-category-id="DIC_kwDOOI8Gbc4CoDnd"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
