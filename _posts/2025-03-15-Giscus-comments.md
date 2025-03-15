@@ -41,15 +41,16 @@ A few articles that helped inspire my choice of Giscus 💡
 * [Thiago Alves](https://thiagoalves.ai/adding-comments-to-jekyll-using-giscus/)
 * [Martin's Tech Journal](https://blog.martinp7r.com/posts/adding-giscus-comments-to-my-blog/)
 
-## How to set-up
+## Guide to setting up Giscus Comments for Jekyll Site
 
-### Step 1: Create a new Github repository for storing comments
+### Step 1: Create a new Github repository
+1. Create a new Github repository which will be used to store comments and reactions.
 ![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/giscus-new-repo.png)
 
-### Step 2: Enable Discussions feature in repository settings
+2. Enable Discussions feature in repository settings
 ![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/giscus-enable-discussions.png)
 
-### Step 3: Install Giscus App at your new repository
+### Step 2: Install Giscus App at your new repository
 1. Head over to Github marketplace: https://github.com/marketplace/giscus
 2. Click the Install it for Free button in the bottom of the page
 3. Review the "Free" order, add billing information and click the Save billing information
@@ -57,7 +58,7 @@ A few articles that helped inspire my choice of Giscus 💡
 5. Select the repository where you want to store the comments (see Step 1), and click Install.
 6. Done!
 
-### Step 4: Enable Giscus Comments in your website repository
+### Step 3: Enable Giscus Comments in your website repository
 1. Head over to Giscus App https://giscus.app to create a customization script which will be used in your website's page
 2. Add the new repository name used to store the comments (for me this was: nymanska/nymanska.github.io-Comments)
 ![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/Giscus-setup-add-repo.png)
@@ -93,7 +94,7 @@ Add the Giscus script information in the _config.yml file.
 6. Add the Script from Step 4 in the bottom of each blog post.
 There might be a better way of doing this without having to post the scrip in every blog post but I haven't figured out how to make that work yet.
 
-### Step 5. Try it out!
+### Step 4. Try it out!
 ![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/new-comment.png)
 
 ## Final Words
@@ -102,7 +103,6 @@ After researching different options for adding comment functionality to my blog,
 Are you using a different comment system for your Jekyll site? I’d love to hear about your experiences with other solutions or if this article was helpful for you.
 
 Feel free to share your thoughts - and if you want to test out my new comment section, go ahead and leave a comment below! 👇
-
 
 
 <script src="https://giscus.app/client.js"
