@@ -1,5 +1,5 @@
 ---
-title: "Adding Comment Section to Jekyll Site with Giscus"
+title: "Adding Comments Section to Jekyll Site with Giscus"
 #description: How to add comment section to Jekyll page and why I chose Giscue.
 date: 2025-03-15 10:25:00 0100
 published: true
@@ -25,17 +25,15 @@ There are several ways to add comment functionality to a Jekyll site. Some of th
 **[Giscus](https://github.com/giscus/giscus)**, however, caught my eye as a really nice alternative. It can be customized to fit with emoji interactions and offers great overall customization options. One of the main drawbacks, in my opinion, is that it requires a GitHub account. I knew that only a small percentage of my blog readers would actually use a GitHub account, but I decided to go with Giscus anyway. The simplicity of setting it up was appealing, and I wanted to give it a try. 
 
 **The pros and cons I see are:**
-- ⊕: Pros
-	* Open source
-	* Reduce spam
-	- Privacy-friendly
-	- Visual Customizable
-	- Emoji interaction feature
-  ⊖ Cons:
-	- Require a GitHub account
+- [x] Open source
+- [x] Reduce spam
+- [x] Privacy-friendly
+- [x] Visual Customizable
+- [x] Emoji interaction feature
+- [ ] Require a GitHub account
 
 ## What is Giscus
-In short. Giscus is a a comments system powered by [GitHub Discussions](https://docs.github.com/en/discussions). Let visitors leave comments and reactions on your website via GitHub. That's it!
+In short - Giscus is a a comments system powered by [GitHub Discussions](https://docs.github.com/en/discussions). Let visitors leave comments and reactions on your website via GitHub. That's it!
 
 A few articles that help inspire my choice of Giscus 💡
 * [Yury Zhauniarovich](https://zhauniarovich.com/post/2021/2021-06-giscus/)
@@ -45,11 +43,11 @@ A few articles that help inspire my choice of Giscus 💡
 ## How to set-up
 
 ### Step 1: Create a new Github repository for storing comments
-![Adding giscus comments to jekyll site](assets/img/2025/Giscus-comments/giscus-new-repo.png)
+![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/giscus-new-repo.png)
 
 
 ### Step 2: Enable Discussions feature in repository settings
-![Adding giscus comments to jekyll site](assets/img/2025/Giscus-comments/giscus-enable-discussions.png)
+![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/giscus-enable-discussions.png)
 
 
 ### Step 3: Install Giscus App at your new repository
@@ -63,7 +61,7 @@ A few articles that help inspire my choice of Giscus 💡
 ### Step 4: Enable Giscus Comments in your website repository
 1. Head over to Giscus App https://giscus.app to create a customization script which will be used in your website's page
 2. Add the repository name (for me this was: nymanska/nymanska.github.io-Comments)
-![Adding giscus comments to jekyll site](assets/img/2025/Giscus-comments/Giscus-setup-add-repo.png)
+![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/Giscus-setup-add-repo.png)
 3. Add customization features you would like for your website such as placement of comment box, color theme, enable reactions, and more.
 4. The Giscus.app page will automatially create your giscus script. Mine looks as below:
    
@@ -82,16 +80,16 @@ A few articles that help inspire my choice of Giscus 💡
         crossorigin="anonymous"
         async>
 </script>
+
 5. Add the Giscus script to your website / blog
 My site is built with the Chirpy Theme which fortunately already has built-in support for Giscus comments defined in the _config.yml file (if you are using a different theme you might want to add the script in either your config, post or other file.) Add the Giscus script information in the _config.yml file_
-![Adding giscus comments to jekyll site](assets/img/2025/Giscus-comments/giscus-new-repo.png)
-
+![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/giscus-new-repo.png)
 
 6. Add the Script from Step 4 in the bottom of each blog post.
 There might be a better way of doing this without having to post the scrip in every blog post but I haven't found out how to make that work yet.
 
 ### Step 5. Try it out!
-![Adding giscus comments to jekyll site](assets/img/2025/Giscus-comments/new comment.png)
+![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/new comment.png)
 
 
 ## Final Words
