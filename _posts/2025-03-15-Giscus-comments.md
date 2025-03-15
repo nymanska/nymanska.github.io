@@ -6,8 +6,9 @@ published: true
 categories: [Github]
 tags: [Code, Github]  #TAG names should always be lowercase separated by comma
 mermaid: false
-media_subpath: /assets/img/2025/Giscus-comments
-image: cover.png
+image: 
+  path: /assets/img/2025/Giscus-comments/cover.png
+  lqtip: 
 ---
 
 ## Introduction
@@ -91,13 +92,14 @@ There might be a better way of doing this without having to post the scrip in ev
 ### Step 5. Try it out!
 ![Adding giscus comments to jekyll site](/assets/img/2025/Giscus-comments/new comment.png)
 
-
 ## Final Words
 After researching different options for adding comment functionality to my blog, I decided that **Giscus** was the right choice for me, and I’m looking forward to trying it out over the next couple of months.
 
 Are you using a different comment system for your Jekyll site? I’d love to hear about your experiences with other solutions or if this article was helpful for you.
 
 Feel free to share your thoughts - and if you want to test out my new comment section, go ahead and leave a comment below! 👇
+
+
 
 <script src="https://giscus.app/client.js"
         data-repo="nymanska/nymanska.github.io-Comments"
