@@ -5,7 +5,7 @@ categories: [Insights]
 tags: [insights]  #TAG names should always be lowercase separated by comma
 mermaid: false
 image: 
-  path: https://www.nymanska.com/assets/img/2025/january/cover.png
+  path: https://www.nymanska.com/assets/img/2025/january/cover.jpg
   lqtip: 
 ---
 
