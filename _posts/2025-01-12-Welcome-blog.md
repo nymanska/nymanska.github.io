@@ -17,18 +17,4 @@ Here, you’ll find a mix of topics that inspire me — from energy storage and 
 ## Let’s Connect
 Whether you’re here to explore new perspectives, gain practical insights, or connect with others who share a passion for growth, I hope this blog resonates with you and I'm looking forward to exchange ideas, challenge perspectives, and grow together.
 
-<script src="https://giscus.app/client.js"
-        data-repo="nymanska/nymanska.github.io-Comments"
-        data-repo-id="R_kgDOOI8GbQ"
-        data-category="General"
-        data-category-id="DIC_kwDOOI8Gbc4CoDnd"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
+{% include comment.html %}
