@@ -17,4 +17,4 @@ Here, you’ll find a mix of topics that inspire me — from energy storage and 
 ## Let’s Connect
 Whether you’re here to explore new perspectives, gain practical insights, or connect with others who share a passion for growth, I hope this blog resonates with you and I'm looking forward to exchange ideas, challenge perspectives, and grow together.
 
-{% include comment.html %}
+{% include comments.html %}
